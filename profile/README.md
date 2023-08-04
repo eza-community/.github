@@ -19,6 +19,6 @@ This organization exists to support the longevity of the project.
 
 - The eza community organization follows the Contributor Covenant Code of Conduct.
 - Discussion about eza, the organization, and other questions happens [in the discussions](https://github.com/orgs/eza-community/discussions).
-- If you are interested in the current status of development, see [this project page](https://github.com/orgs/eza-community/projects/1)https://github.com/orgs/eza-community/projects/1.
+- If you are interested in the current status of development, see [this project page](https://github.com/orgs/eza-community/projects/1).
 - If you have general questions about usage of eza, please submit them [in the discussions](https://github.com/orgs/eza-community/discussions) under Q&A (it's like stackoverflow).
 
